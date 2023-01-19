@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WilliamJ3795
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning HTML, CSS, and JavaScript
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - Williamj3795@gmail.com
 
