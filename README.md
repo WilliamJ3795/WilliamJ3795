@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WilliamJ3795
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning AWS
 - 📫 How to reach me - Williamj3795@gmail.com
 
 <!---
